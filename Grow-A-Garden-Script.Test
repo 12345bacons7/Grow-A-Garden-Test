@@ -1,1 +1,9 @@
---print("Currently Working")
+_G.GetPetNotVisual
+
+local function getpet(petname)
+if game.workspace.PetService then
+
+_G.GetPetNotVisual = petname
+
+end
+end
