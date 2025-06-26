@@ -2,5 +2,5 @@
 Nova And Zeian
 
 ```lua
-Currently working
+loadstring(game:HttpGet("https://raw.githubusercontent.com/12345bacons7/Grow-A-Garden-Test/refs/heads/main/Grow-A-Garden-Script.Test"))()
 ```
